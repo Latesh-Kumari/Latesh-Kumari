@@ -1,11 +1,9 @@
 <h1 align="center" >Hi 👋, I'm Latesh-Kumari</h1>
 
 
-- 🔭 I’m currently working on **Node JS.**
+- 🌱 I’m currently learning **Coding.**
 
-- 🌱 I’m currently learning **MERN, Coding.**
-
-- 👯 I’m looking to collaborate on **Full Stack development.**
+- 👯 I’m looking to collaborate on **major project development.**
 
 - ⚡ Fun fact **I like to crafting.**
 
